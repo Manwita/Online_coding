@@ -1,0 +1,8 @@
+# Program to Check if the Substring is present in the given String.
+
+a=input()
+b=input()
+if b in a:
+    print("String is present");
+else:
+    print("String is not present")
